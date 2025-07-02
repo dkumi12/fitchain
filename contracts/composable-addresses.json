@@ -1,0 +1,13 @@
+{
+  "fitchain": "0x259e2B7208F181D302447BF717d01d4d87D2cADA",
+  "rewards": "0x08d24C60c37D363D8201C665CF575F77604462D0",
+  "leaderboard": "0x02C141d3DCc8A69aeb1a3390Bf76176726bc2a73",
+  "marketplace": "Not deployed (insufficient funds)",
+  "network": "sepolia",
+  "deployedAt": "2025-01-02",
+  "explorerLinks": {
+    "fitchain": "https://sepolia.etherscan.io/address/0x259e2B7208F181D302447BF717d01d4d87D2cADA",
+    "rewards": "https://sepolia.etherscan.io/address/0x08d24C60c37D363D8201C665CF575F77604462D0",
+    "leaderboard": "https://sepolia.etherscan.io/address/0x02C141d3DCc8A69aeb1a3390Bf76176726bc2a73"
+  }
+}

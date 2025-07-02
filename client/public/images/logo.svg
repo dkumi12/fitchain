@@ -1,0 +1,22 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond shape with running figure -->
+  <g transform="translate(10, 5)">
+    <!-- Diamond outline -->
+    <path d="M25 5 L45 25 L25 45 L5 25 Z" 
+          fill="none" 
+          stroke="#22a6b3" 
+          stroke-width="3"/>
+    
+    <!-- Running figure silhouette -->
+    <g transform="translate(25, 25)">
+      <circle cx="-5" cy="-10" r="4" fill="#f97316"/>
+      <path d="M-8,-6 L-6,-2 L-4,2 L-2,0 L0,-2 L2,0 L4,2 L6,0 L4,-2 L2,-6 Z" 
+            fill="#f97316"/>
+    </g>
+  </g>
+  
+  <!-- FitChain text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
+    <tspan fill="#22a6b3">Fit</tspan><tspan fill="#f97316">Chain</tspan>
+  </text>
+</svg>

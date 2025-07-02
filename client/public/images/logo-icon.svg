@@ -1,0 +1,16 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond shape with running figure -->
+  <g transform="translate(25, 25)">
+    <!-- Diamond outline -->
+    <path d="M0 -20 L20 0 L0 20 L-20 0 Z" 
+          fill="none" 
+          stroke="#22a6b3" 
+          stroke-width="3"/>
+    
+    <!-- Running figure silhouette -->
+    <circle cx="0" cy="-8" r="4" fill="#f97316"/>
+    <path d="M-3,-4 L-1,0 L1,4 L3,2 L5,0 L7,2 L9,4 L11,2 L9,0 L7,-4 L3,-4 Z" 
+          fill="#f97316"
+          transform="scale(0.8)"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+FITCHAIN LOGO SETUP
+===================
+
+Add your FitChain logo files here:
+
+1. logo.png - Your full FitChain logo (200x60px recommended)
+2. logo-icon.png - Just the diamond icon (50x50px)
+3. favicon.ico - Browser tab icon (32x32px)
+
+The files should be PNG format with transparent background.
+Your logo colors: 
+- Teal: #22a6b3
+- Orange: #f97316
